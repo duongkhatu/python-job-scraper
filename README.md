@@ -23,3 +23,6 @@ Store the filtered job listings in a CSV file or display them in a readable form
 - Pagination: Handle pagination to scrape multiple pages of job listings. (+1)
 - Scheduling: Set up your script to run periodically to scrape and update the job listings daily or weekly. (+3)
 - Notification System: Send an email notification with the latest job listings that match your criteria. (+5)
+
+*The website I chose to scrape from: https://careerviet.vn/*  
+Aside from the above requirements, I also include a feature that allows city/province names to be taken as an argument to the function.
